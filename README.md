@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @shahf6738
+- 👋 Hi, I’m Shah Faisal
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
 
 <!---
 shahf6738/shahf6738 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
