@@ -1,8 +1,10 @@
-<img width="1774" height="887" alt="shah-faisal-banner" src="https://github.com/user-attachments/assets/b2b31a36-c49f-406e-bfe7-b7ba13e31dfd" />
+<p align="center">
+  <img src="./banner-shah-faisal.png" alt="Shah Faisal Banner" width="100%">
+</p>
 <h1 align="center">Hi 👋, I'm Shah Faisal</h1>
 
 <h3 align="center">
-Frontend Engineer • React • TypeScript • Next.js • React Native
+Software Engineer • React • TypeScript • Next.js • React Native
 </h3>
 
 <p align="center">
@@ -57,8 +59,6 @@ A modern React + TypeScript application for managing online examinations.
 ✔ REST API Integration
 
 ✔ Modern UI
-
-✔ Five-page workflow
 
 ---
 
