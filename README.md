@@ -1,140 +1,246 @@
-<p align="center">
-  <img src="./banner-shah-faisal.png" alt="Shah Faisal Banner" width="100%">
-</p>
-<h1 align="center">Hi 👋, I'm Shah Faisal</h1>
+# 👋 Hi, I'm Shah Faisal Ahmad
 
-<h3 align="center">
-Software Engineer • React • TypeScript • Next.js • React Native
-</h3>
+\<h3 align="center">
+&#x20; Software Engineer | React.js | Next.js | TypeScript | Node.js | C# / .NET
+\</h3>
 
-<p align="center">
-I build scalable, modern, and responsive web applications with a strong focus on clean UI, performance, and user experience.
-</p>
+\<p align="center">
+&#x20; \<img src="./banner-shah-faisal.png" alt="Shah Faisal Banner" width="100%">
+\</p>
+
+\<p align="center">
+&#x20; Software Engineer with 4+ years of experience building scalable, high-performance web applications and enterprise SaaS products. Passionate about frontend architecture, clean code, reusable components, and delivering exceptional user experiences.
+\</p>
+
+\<p align="center">
+&#x20; \<a href="[https://www.linkedin.com/in/shah-faisal-ba4a71212/](https://www.linkedin.com/in/shah-faisal-ba4a71212/)">
+&#x20;   \<img src="[https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin)" />
+&#x20; \</a>
+&#x20; \<a href="[https://shahfaisalahmad.netlify.app/](https://shahfaisalahmad.netlify.app/)">
+&#x20;   \<img src="[https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=netlify](https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge\&logo=netlify)" />
+&#x20; \</a>
+&#x20; \<a href="mailto\:shahf6738\@gmail.com">
+&#x20;   \<img src="[https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)" />
+&#x20; \</a>
+\</p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 💼 3.5+ years of professional software development experience
-- ⚛️ Specialized in React, TypeScript, Next.js and React Native
-- 🚀 Experienced in building production-grade dashboards and SaaS products
-- 📊 Built data-intensive applications using OpenSearch Dashboards
-- 🔥 Passionate about reusable components, performance optimization and clean architecture
-- 🌱 Currently exploring advanced React, AI integrations and modern frontend architecture
+- 💼 4+ years of professional software development experience.
+- ⚛️ Specialized in React.js, Next.js, TypeScript, and modern frontend architecture.
+- 🏢 Experienced in building enterprise SaaS applications and production-grade dashboards.
+- 🚀 Full-stack development experience with Node.js, Express.js, C#, and ASP.NET Core.
+- 📊 Experienced in building data-intensive dashboards, advanced tables, and interactive visualizations.
+- 🔐 Experienced in authentication, JWT, OAuth 2.0, and Role-Based Access Control (RBAC).
+- ⚡ Focused on performance optimization, Core Web Vitals, and reusable component libraries.
+- 🤖 Exploring AI-assisted development with Claude Code, Codex, GitHub Copilot, and Cursor.
 
 ---
 
-## 🚀 Tech Stack
+## 🛠️ Technical Skills
 
-### Frontend
+### 🎨 Frontend Development
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Redux Toolkit](https://img.shields.io/badge/Redux%20Toolkit-764ABC?style=for-the-badge&logo=redux)
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)
 
-### Backend
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase)
 
-### Tools
 
-Git • GitHub • Cypress • REST APIs • OpenSearch • Linux • Figma • VS Code
 
----
 
-# 🌟 Featured Projects
 
-## 📚 Exam Management Application
-A modern React + TypeScript application for managing online examinations.
 
-✔ CRUD Operations
 
-✔ REST API Integration
+\
 
-✔ Modern UI
 
----
+### ⚙️ Backend Development
 
-## 🏥 Healthcare Dashboard
 
-A professional dashboard built with:
 
-- React
-- TypeScript
-- Redux Toolkit
-- Firebase
+
+
+\
+
+
+### 🗄️ Databases & Authentication
+
+
+
+
+\
+
+
+### 📊 Data Visualization
+
+- AmCharts
+- Elastic Charts
 - Recharts
+- D3 Visualizations
+- Interactive Dashboards
+- Advanced Data Tables
 
-Includes analytics, authentication, dashboards and reusable components.
+### 🧪 Testing & Performance
 
----
+- Cypress E2E Testing
+- React Profiler
+- Code Splitting & Lazy Loading
+- Server-Side Rendering (SSR)
+- Static Site Generation (SSG)
+- Core Web Vitals
+- Web Accessibility (WCAG / ARIA)
 
-## 🖼 Gallery Web App
+### 🔧 Tools & Platforms
 
-Responsive image gallery with modern UI and optimized performance.
 
----
 
-## 📱 Pets Gallery App
 
-Native Android application developed using Kotlin.
 
-Features:
 
-- Search
-- Sorting
-- Image download
-- Local storage
 
----
+\
 
-## 🎮 Name Predictor React Native
 
-Interactive React Native game with smooth navigation, reusable components and modern UI.
+### 🤖 AI-Powered Development
 
----
+- Claude Code
+- OpenAI Codex
+- GitHub Copilot
+- Cursor
+- Prompt Engineering
 
-## 💻 Modern Portfolio
+### 📋 Methodologies
 
-A glassmorphism-inspired developer portfolio showcasing responsive design and modern UI trends.
-
----
-
-# 📈 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=shahf6738&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=shahf6738&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahf6738&layout=compact&theme=tokyonight"/>
-
-</p>
+- Agile / Scrum
+- Clean Architecture
+- Component-Based Architecture
+- Responsive Design
+- Code Reviews
 
 ---
 
-## 📫 Connect with Me
+## 💼 Professional Experience
 
-- 💼 LinkedIn: https://www.linkedin.com/in/shah-faisal-ba4a71212/
-- 📧 Email: shahf6738@gmail.com
-- 🌐 Portfolio: https://shahfaisalahmad.netlify.app/
+### 🚀 Software Engineer | Horizon Dream Vision
+
+**September 2026 – Present**
+
+`React.js` `JavaScript` `C#` `.NET` `REST APIs` `SQL Server`
+
+- Developing and maintaining the BusTracker application using React.js and JavaScript.
+- Building responsive interfaces for live trip monitoring, bus locations, and route reports.
+- Integrating frontend applications with REST APIs and backend services built with C# and .NET.
+- Implementing data-driven tables with search, sorting, pagination, and auto-refresh functionality.
+- Troubleshooting frontend-backend integration issues and optimizing data rendering.
+
+### ⚡ Software Engineer | Ematrix Solutions
+
+**January 2026 – September 2026**
+
+`Next.js` `TypeScript` `Redux` `Node.js` `Express.js`
+
+- Built and maintained backend APIs for an order aggregator platform, integrating 100+ external service providers into a unified interface.
+- Designed and implemented Role-Based Access Control (RBAC) middleware for authentication and authorization across 1,000+ client applications.
+- Developed permission-aware dashboards using Next.js and TypeScript.
+- Automated pending-order status updates, reducing manual effort from 3 minutes per order to processing 50 orders per second.
+- Developed responsive frontend interfaces and managed application state using Redux.
+
+### 🌐 Software Engineer | Everlytics Data Science Pte Ltd
+
+**August 2022 – January 2026**
+
+`React.js` `Next.js` `TypeScript` `Redux Toolkit` `GraphQL` `Material UI` `Elastic UI` `Cypress`
+
+- Developed and maintained accessible, high-performance web applications for an AI-powered enterprise SaaS platform.
+- Built reusable UI component libraries using Elastic UI (EUI), React Hooks, and modern design patterns.
+- Developed data-intensive interfaces for the 4Pointx enterprise SaaS product, including advanced tables, filtering, pagination, expandable rows, and D3 visualizations.
+- Integrated REST APIs and GraphQL endpoints with JWT authentication, token refresh, protected routes, and Axios interceptors.
+- Managed complex application state using Redux Toolkit and Context API.
+- Improved Core Web Vitals through virtualization, memoization, code splitting, lazy loading, and SSR/SSG.
+- Contributed to code reviews, debugging, production support, Cypress E2E testing, and team mentoring.
 
 ---
 
-<p align="center">
+## 🚀 Featured Projects
 
-⭐ Thanks for visiting my profile!
+### 🏥 Healthcare App
 
-</p>
+**React.js | TypeScript | Redux Toolkit | Firebase | REST APIs**
+
+Healthcare analytics dashboard featuring data visualization, application state management, and reusable UI components.
+
+🔗 [View Repository](https://github.com/shahf6738/healthcare-app)
+
+---
+
+### 🖼️ Gallery Web App
+
+**React.js | TypeScript**
+
+Responsive image gallery application featuring:
+
+- Image browsing and searching
+- Sorting and selection
+- Image downloading
+- Modern responsive UI
+
+🔗 [View Repository](https://github.com/shahf6738/gallery-web-app)
+
+---
+
+### 📇 Contact Management App
+
+**React.js | TypeScript**
+
+Contact management application with complete CRUD functionality:
+
+- Create and manage contacts
+- Search and filter contacts
+- Edit existing records
+- Delete contacts
+
+🔗 [View Repository](https://github.com/shahf6738/contact-management-app)
+
+---
+
+## 📈 GitHub Statistics
+
+\<p align="center">
+&#x20; \<img height="170" src="[https://github-readme-stats.vercel.app/api?username=shahf6738&show_icons=true&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api?username=shahf6738\&show_icons=true\&theme=tokyonight\&hide_border=true)" alt="GitHub Stats" />
+&#x20; \<img height="170" src="[https://github-readme-streak-stats.herokuapp.com/?user=shahf6738&theme=tokyonight&hide_border=true](https://github-readme-streak-stats.herokuapp.com/?user=shahf6738\&theme=tokyonight\&hide_border=true)" alt="GitHub Streak" />
+\</p>
+
+\<p align="center">
+&#x20; \<img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=shahf6738&layout=compact&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=shahf6738\&layout=compact\&theme=tokyonight\&hide_border=true)" alt="Most Used Languages" />
+\</p>
+
+---
+
+## 🎓 Education
+
+**Bachelor of Engineering (B.E.) – Computer Engineering**
+
+University of Kashmir | 2022
+
+---
+
+## 🏆 Certifications
+
+- Frontend Developer (React) — HackerRank
+- Software Engineer — HackerRank
+- REST API & Node.js — HackerRank
+- JavaScript Algorithms and Data Structures — freeCodeCamp
+- Responsive Web Design — freeCodeCamp
+
+---
+
+## 📫 Connect With Me
+
+\<p align="left">   \<a href="[https://www.linkedin.com/in/shah-faisal-ba4a71212/](https://www.linkedin.com/in/shah-faisal-ba4a71212/)">     \<img src="[https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin)" />   \</a>   \<a href="mailto\:shahf6738\@gmail.com">     \<img src="[https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)" />   \</a>   \<a href="[https://shahfaisalahmad.netlify.app/](https://shahfaisalahmad.netlify.app/)">     \<img src="[https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=netlify](https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge\&logo=netlify)" />   \</a> \</p>
+
+📍 Srinagar, Jammu & Kashmir, India
+
+---
+
+\<p align="center">   ⭐ Thanks for visiting my profile!   \<br />   💻 Keep Building. Keep Learning. Keep Growing. \</p>
